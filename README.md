@@ -7,7 +7,7 @@ Desenvolvedor Backend Python apaixonado por criar soluções escaláveis.
 ## 🚀 Tecnologias
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,git,github,docker,linux,vscode,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,git,github,docker,vscode,html,css,js" />
 </p>
 
 ---
